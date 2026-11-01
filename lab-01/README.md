@@ -229,9 +229,8 @@ In RESTful web services, HTTP status codes communicate the outcome of the client
 
 ## Screenshots
 
-> **Note to Evaluator / Student:**  
-> The images below reflect authentic execution screenshots captured from the running local application.  
-> *(If cloning for testing, capture your screenshots using `Win + Shift + S` and save them into the `screenshots/` directory).*
+> **Verification Note:**  
+> The images below represent authentic execution screenshots captured from the live cloud deployment on Render.
 
 ### 1. Root Endpoint (`GET /`)
 ![Home Endpoint](screenshots/01-home-endpoint.png)
@@ -243,10 +242,10 @@ In RESTful web services, HTTP status codes communicate the outcome of the client
 ![Time Endpoint](screenshots/03-time-endpoint.png)
 
 ### 4. 404 Route Not Found (`GET /invalid`)
-![404 Error Endpoint](screenshots/04-404-endpoint.png)
+*(To be captured: Open [https://bdf-lab-report-1.onrender.com/invalid](https://bdf-lab-report-1.onrender.com/invalid), press `Win + Shift + S`, and save as `screenshots/04-404-endpoint.png`)*
 
 ### 5. Server Startup Banner in Terminal
-![Server Running Terminal](screenshots/05-server-running.png)
+*(To be captured: Run `npm start` in your VS Code terminal, press `Win + Shift + S`, and save as `screenshots/05-server-running.png`)*
 
 ---
 
