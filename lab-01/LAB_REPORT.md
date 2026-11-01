@@ -372,8 +372,9 @@ File: `screenshots/05-server-running.png`
 
 ## 10. Public Project Links
 
-- **GitHub Repository URL:** `https://github.com/AREPALLI-VENKATASAI/AREPALLI-VENKATASAI` *(Replace with your actual public repository URL)*
-- **Public Cloud Deployment URL (Render):** `https://your-render-service.onrender.com` *(Replace with your live Render URL)*
+- **GitHub Repository URL:** [https://github.com/arepallivenkatsai-cyber/BDF-LAB-REPORT-1](https://github.com/arepallivenkatsai-cyber/BDF-LAB-REPORT-1)
+- **Render Service Name:** `BDF-LAB-REPORT-1`
+- **Public Cloud Deployment URL (Render):** `https://bdf-lab-report-1.onrender.com` *(Active once Render build completes)*
 
 ---
 

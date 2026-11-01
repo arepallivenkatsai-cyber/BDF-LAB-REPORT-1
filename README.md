@@ -11,7 +11,8 @@ Welcome to the official university laboratory coursework repository for **Backen
 - **Department & Section:** CSE AI&DE 2A
 - **Course:** Backend Development Fundamentals
 - **University:** Aurora University
-- **Repository Name:** `AREPALLI VENKATASAI`
+- **Repository Name:** `BDF-LAB-REPORT-1`
+- **GitHub Repository URL:** [https://github.com/arepallivenkatsai-cyber/BDF-LAB-REPORT-1](https://github.com/arepallivenkatsai-cyber/BDF-LAB-REPORT-1)
 
 ---
 
@@ -41,7 +42,7 @@ Welcome to the official university laboratory coursework repository for **Backen
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/AREPALLI-VENKATASAI/AREPALLI-VENKATASAI.git
+   git clone https://github.com/arepallivenkatsai-cyber/BDF-LAB-REPORT-1.git
    ```
 
 2. Navigate to Lab 1:

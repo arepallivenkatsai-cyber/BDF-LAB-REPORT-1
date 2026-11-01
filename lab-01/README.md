@@ -125,12 +125,12 @@ Before running this project, ensure you have the following installed on your mac
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/AREPALLI-VENKATASAI/AREPALLI-VENKATASAI.git
+   git clone https://github.com/arepallivenkatsai-cyber/BDF-LAB-REPORT-1.git
    ```
 
 2. **Navigate to the `lab-01` directory:**
    ```bash
-   cd "AREPALLI VENKATASAI/lab-01"
+   cd "BDF-LAB-REPORT-1/lab-01"
    ```
 
 3. **Install dependencies:**

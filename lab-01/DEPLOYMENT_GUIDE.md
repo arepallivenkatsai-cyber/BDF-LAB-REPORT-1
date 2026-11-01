@@ -23,7 +23,7 @@ This guide walks you through deploying **Lab 1: Node.js and Express Server** to 
 3. Choose **"Build and deploy from a Git repository"** and click **Next**.
 
 ### Step 3: Connect Your GitHub Repository
-1. In the repository list, find your repository: `AREPALLI VENKATASAI` (or the repository name you used).
+1. In the repository list, find your repository: `BDF-LAB-REPORT-1` (or `arepallivenkatsai-cyber/BDF-LAB-REPORT-1`).
 2. Click **Connect**.
    *(If your repository is not showing, click "Configure access" on GitHub and grant Render permissions to view your repository).*
 
@@ -32,12 +32,12 @@ Fill in the configuration fields with the following exact values:
 
 | Configuration Field | Setting Value | Explanation |
 | :--- | :--- | :--- |
-| **Name** | `venkata-sai-lab-01` *(or any unique name)* | Your public service subdomain name |
-| **Region** | Choose nearest (e.g., Singapore / Frankfurt / Oregon) | Geographic server region |
+| **Name** | `BDF-LAB-REPORT-1` | Your Render service name |
+| **Region** | `Ohio (US East)` | Deployment cloud server region |
 | **Branch** | `main` | Production branch to deploy from |
-| **Root Directory** | `lab-01` | **CRITICAL:** Tells Render your `package.json` and code are inside the `lab-01` subfolder! |
+| **Root Directory** | `lab-01` | **CRITICAL:** Tells Render that `package.json` and code are inside `lab-01` |
 | **Runtime** | `Node` | Runtime environment |
-| **Build Command** | `npm install` | Installs Express.js in the cloud container |
+| **Build Command** | `npm install` | Installs Express.js in cloud container |
 | **Start Command** | `npm start` | Runs `node server.js` |
 | **Instance Type** | `Free` | Select Free tier ($0/month) |
 
