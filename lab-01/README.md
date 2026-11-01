@@ -1,6 +1,7 @@
 # Lab 1: Node.js and Express Server
 
-> **Live Deployment URL:** `https://your-render-service-url.onrender.com` *(Update with your deployed Render service URL after completing deployment)*
+> **Live Deployment URL:** [https://bdf-lab-report-1.onrender.com](https://bdf-lab-report-1.onrender.com)
+> **GitHub Repository:** [https://github.com/arepallivenkatsai-cyber/BDF-LAB-REPORT-1](https://github.com/arepallivenkatsai-cyber/BDF-LAB-REPORT-1)
 
 ---
 
@@ -12,6 +13,9 @@
 - **Department & Section:** CSE AI&DE 2A
 - **University:** Aurora University
 - **Academic Year:** 2026-2027
+- **GitHub Account:** [arepallivenkatsai-cyber](https://github.com/arepallivenkatsai-cyber)
+- **GitHub Repository:** [BDF-LAB-REPORT-1](https://github.com/arepallivenkatsai-cyber/BDF-LAB-REPORT-1)
+- **Render Web Service:** [BDF-LAB-REPORT-1](https://bdf-lab-report-1.onrender.com)
 
 ---
 
